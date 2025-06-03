@@ -59,5 +59,3 @@ This project is for showcase purposes only.
 Do not use the full application logic or design without explicit permission.
 
 Made with ❤️ by Kareem Saadeh
-نسخ
-تح
